@@ -25,7 +25,7 @@ Key Concepts:
 
 `Flask` `Artificial Intelligence (AI)`
 
-[> Course Link](https://www.coursera.org/learn/introduction-to-software-engineering?specialization=applied-artifical-intelligence-ibm-watson-ai)
+[Course Link](https://www.coursera.org/learn/introduction-to-software-engineering?specialization=applied-artifical-intelligence-ibm-watson-ai)
 
 ### 2. Introduction to Artificial Intelligence (AI)
 
