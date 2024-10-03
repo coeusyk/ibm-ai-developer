@@ -1,7 +1,5 @@
 # IBM AI Developer
 
----
-
 ## Table of Content
 
 - [About this Repository](#about-this-repository)
